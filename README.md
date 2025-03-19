@@ -27,7 +27,7 @@ Cybersecurity professional with hands-on experience in SIEM, intrusion detection
 📌 Configured Snort IDS for intrusion detection & packet analysis in a virtualized lab
 📌 Created custom rules and tested alerts for network security monitoring
 📌 Integrated with Ubuntu, Kali Linux (Attacker),
-🔗 **[Snort Home Lab Repository]**(https://docs.google.com/document/d/1NT4_WIZpRUrxmuL4VhAaBEv1XF35NKKuI-xaqhl_-mg/edit?usp=sharing)**
+🔗 **[Snort Home Lab Repository]**(https://docs.google.com/document/d/preview)**
 
 
 
