@@ -21,7 +21,14 @@ Cybersecurity professional with hands-on experience in SIEM, intrusion detection
 
 ### **3️⃣ Malware Analysis with FlareVM**  
 📌 Setup a Windows-based malware analysis sandbox using **Flare VM**  
-🔗 **[Malware Lab Repository](https://github.com/YOUR-USERNAME/Malware-Lab)**  
+🔗 **[Malware Lab Repository](https://github.com/YOUR-USERNAME/Malware-Lab)** 
+
+### **4️⃣ Snort IDS Home Lab**
+📌 Configured Snort IDS for intrusion detection & packet analysis in a virtualized lab
+📌 Created custom rules and tested alerts for network security monitoring
+📌 Integrated with Ubuntu, Kali Linux (Attacker),
+🔗 **[Snort Home Lab Repository](https://github.com/YOUR-USERNAME/snort-lab)**
+
 
 ## 📫 Let's Connect!  
 🔗 **GitHub:** [github.com/YOUR-USERNAME](https://github.com/YOUR-USERNAME)  
