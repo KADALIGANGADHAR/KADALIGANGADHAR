@@ -13,7 +13,7 @@ Cybersecurity professional with hands-on experience in SIEM, intrusion detection
 ## 🔥 Hands-on Projects  
 ### **1️⃣ Windows Server 2022 & Active Directory Setup**  
 📌 Configured AD DS, DNS, Group Policies in a **virtualized lab**  
-🔗 **[Project Repository](https://github.com/YOUR-USERNAME/Windows-Server-2022-AD)**  
+🔗 **[Project Repository](https://drive.google.com/file/d/1cz-4paTKuaKgcsgwfG5qKpUHOBslh70N/view?usp=sharing)**  
 
 ### **2️⃣ SIEM Lab: Splunk **  
 📌 Built a **home SIEM lab** for **log analysis, threat detection**  
