@@ -35,12 +35,7 @@ Cybersecurity professional with hands-on experience in SIEM, intrusion detection
 📌 Integrated with Ubuntu, Kali Linux (Attacker) for traffic generation and analysis
 🔗 **[Suricata Home Lab Repository](https://docs.google.com/document/d/1C2D57fZWQlSoRCgN5QPutE9OPM0RWZ5qRJiJCxaoz94/edit?usp=sharing)**
 
-### **6️⃣ Nmap Scan Project**
-📌 Conducted network scanning using **Nmap** to identify open ports, services, and potential vulnerabilities  
-📌 Performed various scanning techniques: **Basic Scan, Service Detection, Aggressive Scan, Full Port Scan**  
-🔗 **[Nmap Scan Repository](https://github.com/KADALIGANGADHAR/Nmap-Scan/commit/401bc66fb8096a9e07f19cb1a49680b9c84d53ea#commitcomment-154345413)**  
-
-### **7️⃣ VAPT Projects**
+### **6️⃣VAPT Projects**
 📌 Performed a Vulnerability Assessment & Penetration Testing (VAPT) on Metasploitable2 and OWASP Broken Web Apps
 📌 Used multiple security tools: Nmap, Nessus, Burp Suite, Metasploit, Nikto, OWASP ZAP
 📌 Identified vulnerabilities, exploited them, and documented mitigation strategies
