@@ -36,6 +36,15 @@ Cybersecurity professional with hands-on experience in SIEM, intrusion detection
 📌 Integrated with Ubuntu, Kali Linux (Attacker) for traffic generation and analysis
 🔗 **[Suricata Home Lab Repository](https://docs.google.com/document/d/1C2D57fZWQlSoRCgN5QPutE9OPM0RWZ5qRJiJCxaoz94/edit?usp=sharing)**
 
+### **6️⃣ Nmap Scan Project**
+
+📌 Conducted network scanning using **Nmap** to identify open ports, services, and potential vulnerabilities  
+📌 Performed various scanning techniques: **Basic Scan, Service Detection, Aggressive Scan, Full Port Scan**  
+📌 Analyzed results to assess network security posture  
+📌 Saved scan results and documented findings for security assessment  
+
+🔗 **[Nmap Scan]()**  
+
 
 
 
