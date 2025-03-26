@@ -42,6 +42,15 @@ Cybersecurity professional with hands-on experience in SIEM, intrusion detection
 📌 Performed various scanning techniques: **Basic Scan, Service Detection, Aggressive Scan, Full Port Scan**  
 🔗 **[Nmap Scan](https://github.com/KADALIGANGADHAR/Nmap-Scan/commit/401bc66fb8096a9e07f19cb1a49680b9c84d53ea#commitcomment-154345413)**  
 
+### **7️⃣ VAPT Projects **
+📌 Performed a Vulnerability Assessment & Penetration Testing (VAPT) on Metasploitable2 and OWASP Broken Web Apps
+📌 Used multiple security tools: Nmap, Nessus, Burp Suite, Metasploit, Nikto, OWASP ZAP
+📌 Identified vulnerabilities, exploited them, and documented mitigation strategies
+📌 Conducted scanning techniques: Network Scanning, Web Application Testing, Exploitation, and Reporting
+🔗 **VAPT Project Repository**
+📜 Detailed Report - README.md
+🛡 Mitigation Strategies - Mitigation.md
+
 
 
 
