@@ -40,10 +40,7 @@ Cybersecurity professional with hands-on experience in SIEM, intrusion detection
 
 📌 Conducted network scanning using **Nmap** to identify open ports, services, and potential vulnerabilities  
 📌 Performed various scanning techniques: **Basic Scan, Service Detection, Aggressive Scan, Full Port Scan**  
-📌 Analyzed results to assess network security posture  
-📌 Saved scan results and documented findings for security assessment  
-
-🔗 **[Nmap Scan]()**  
+🔗 **[Nmap Scan](https://github.com/KADALIGANGADHAR/Nmap-Scan/commit/401bc66fb8096a9e07f19cb1a49680b9c84d53ea#commitcomment-154345413)**  
 
 
 
