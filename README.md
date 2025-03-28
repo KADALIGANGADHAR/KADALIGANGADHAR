@@ -27,12 +27,14 @@ Cybersecurity professional with hands-on experience in SIEM, intrusion detection
 📌 Configured Snort IDS for intrusion detection & packet analysis in a virtualized lab
 📌 Created custom rules and tested alerts for network security monitoring
 📌 Integrated with Ubuntu, Kali Linux (Attacker)
+
 🔗 **[Snort Home Lab Repository](https://docs.google.com/document/d/1NT4_WIZpRUrxmuL4VhAaBEv1XF35NKKuI-xaqhl_-mg/edit?usp=sharing)**
 
 ### **5️⃣ Suricata IDS Home Lab**
 📌 Configured Suricata IDS for real-time intrusion detection & deep packet inspection in a virtualized lab
 📌 Created and optimized custom rules to detect malicious traffic patterns
 📌 Integrated with Ubuntu, Kali Linux (Attacker) for traffic generation and analysis
+
 🔗 **[Suricata Home Lab Repository](https://docs.google.com/document/d/1C2D57fZWQlSoRCgN5QPutE9OPM0RWZ5qRJiJCxaoz94/edit?usp=sharing)**
 
 ### **6️⃣VAPT Projects**
@@ -40,6 +42,7 @@ Cybersecurity professional with hands-on experience in SIEM, intrusion detection
 📌 Used multiple security tools: Nmap, Nessus, Burp Suite, Metasploit, Nikto, OWASP ZAP
 📌 Identified vulnerabilities, exploited them, and documented mitigation strategies
 📌 Conducted scanning techniques: Network Scanning, Web Application Testing, Exploitation, and Reporting
+
 🔗 **[VAPT Project Repository](https://github.com/KADALIGANGADHAR/VAPT-Project.git)**
 📜 **Detailed Report - README.md**
 🛡 **Mitigation Strategies - Mitigation.md**
