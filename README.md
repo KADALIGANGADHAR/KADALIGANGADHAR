@@ -43,7 +43,7 @@ Cybersecurity professional with hands-on experience in SIEM, intrusion detection
 📌 Identified vulnerabilities, exploited them, and documented mitigation strategies
 📌 Conducted scanning techniques: Network Scanning, Web Application Testing, Exploitation, and Reporting
 
-🔗 **[VAPT Project Repository](https://github.com/KADALIGANGADHAR/VAPT-Project.git)**
+🔗 **[VAPT Project Repository](https://github.com/KADALIGANGADHAR/Vulnerability-Assessment-Penetration-Testing-VAPT-Projects.git)**
 📜 **Detailed Report - README.md**
 🛡 **Mitigation Strategies - Mitigation.md**
 
