@@ -40,7 +40,7 @@ Cybersecurity professional with hands-on experience in SIEM, intrusion detection
 ![Virtual Internship](https://img.shields.io/badge/Certificate-NPCI%20Virtual%20Internship-darkgreen?style=for-the-badge&logo=nationalgeographic)
 
 
-
+![CCSP](https://img.shields.io/badge/Certificate-CCSP%20Certified%20Cloud%20Security%20Professional-blueviolet?style=for-the-badge&logo=cloudflare)
 
 
 
