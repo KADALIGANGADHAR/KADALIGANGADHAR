@@ -24,6 +24,32 @@ Cybersecurity professional with hands-on experience in SIEM, intrusion detection
 
 [![Azure Fundamentals](https://img.shields.io/badge/Certificate-Azure%20Fundamentals-blue?style=for-the-badge&logo=microsoftazure)](https://drive.google.com/file/d/1rEJFl-OjY2X_eRcEpSCgLk81pHAkKSMA/view?usp=drivesdk)
 
+
+
+
+![Cybersecurity Program](https://img.shields.io/badge/Certificate-Advanced%20Cybersecurity%20Program-blue?style=for-the-badge&logo=microsoftdefender)
+
+
+
+
+![CompTIA Network+](https://img.shields.io/badge/Certificate-CompTIA%20Network%2B-red?style=for-the-badge&logo=comptia)
+
+
+
+
+![Virtual Internship](https://img.shields.io/badge/Certificate-NPCI%20Virtual%20Internship-darkgreen?style=for-the-badge&logo=nationalgeographic)
+
+
+
+
+
+
+
+
+
+
+
+
 ## 🔥 Hands-on Projects  
 ### **1️⃣ Windows Server 2022 & Active Directory Setup**  
 📌 Configured AD DS, DNS, Group Policies in a **virtualized lab**  
