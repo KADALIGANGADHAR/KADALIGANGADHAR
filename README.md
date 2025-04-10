@@ -20,6 +20,7 @@ Cybersecurity professional with hands-on experience in SIEM, intrusion detection
 
 
 
+![Azure Fundamentals](https://img.shields.io/badge/Certificate-Azure%20Fundamentals-blue?style=for-the-badge&logo=microsoftazure)
 
 
 
