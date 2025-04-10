@@ -8,7 +8,21 @@ Cybersecurity professional with hands-on experience in SIEM, intrusion detection
 ## 🛠 Skills & Certifications  
 - 🏅 **Certifications:** CCSP, CompTIA+, Azure Fundamentals, Cybersecurity (IIIT-B, NPCI)  
 - 🔹 **Security Tools:** Kali Linux, Wireshark, Nmap, Metasploit, Burp Suite  
-- 🔹 **SIEM & Monitoring:** Splunk, Suricata, Snort 
+- 🔹 **SIEM & Monitoring:** Splunk, Suricata, Snort
+
+
+
+![Security+](https://img.shields.io/badge/CompTIA-Security%2B-red?style=for-the-badge&logo=compTIA)
+[![CCSP](https://img.shields.io/badge/CCSP-blue?style=for-the-badge&logo=CCSP)
+![Azure Fundamentals](https://img.shields.io/badge/Microsoft-AZ--900-blue?style=for-the-badge&logo=microsoft-azure)
+![NPCI Certificate](https://img.shields.io/badge/NPCI-Cybersecurity%20Internship-darkgreen?style=for-the-badge&logo=paytm)
+![Simplilearn IIITB](https://img.shields.io/badge/IIIT%20Bangalore-Advanced%20Cybersecurity%20Program-red?style=for-the-badge&logo=graduation-cap)
+
+
+
+
+
+
 
 ## 🔥 Hands-on Projects  
 ### **1️⃣ Windows Server 2022 & Active Directory Setup**  
