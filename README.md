@@ -43,7 +43,15 @@ Cybersecurity professional with hands-on experience in SIEM, intrusion detection
 ![CCSP](https://img.shields.io/badge/Certificate-CCSP%20Certified%20Cloud%20Security%20Professional-blueviolet?style=for-the-badge&logo=cloudflare)
 
 
+[![Azure Fundamentals](https://img.shields.io/badge/Certificate-Azure%20Fundamentals-blue?style=for-the-badge&logo=microsoftazure)](https://example.com/azure-fundamentals)
 
+[![CompTIA Network+](https://img.shields.io/badge/Certificate-CompTIA%20Network%2B-red?style=for-the-badge&logo=comptia)](https://example.com/comptia-network-plus)
+
+[![Cybersecurity Program](https://img.shields.io/badge/Certificate-Advanced%20Cybersecurity%20Program-blue?style=for-the-badge&logo=microsoftdefender)](https://example.com/iiit-cybersecurity)
+
+[![Virtual Internship](https://img.shields.io/badge/Certificate-NPCI%20Virtual%20Internship-darkgreen?style=for-the-badge&logo=nationalgeographic)](https://example.com/npci-internship)
+
+[![CCSP](https://img.shields.io/badge/Certificate-CCSP%20Certified%20Cloud%20Security%20Professional-blueviolet?style=for-the-badge&logo=cloudflare)](https://example.com/ccsp-certificate)
 
 
 
