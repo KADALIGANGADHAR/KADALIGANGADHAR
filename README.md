@@ -12,46 +12,16 @@ Cybersecurity professional with hands-on experience in SIEM, intrusion detection
 
 
 
-![Security+](https://img.shields.io/badge/CompTIA-Security%2B-red?style=for-the-badge&logo=compTIA)
-[![CCSP](https://img.shields.io/badge/CCSP-blue?style=for-the-badge&logo=CCSP)
-![Azure Fundamentals](https://img.shields.io/badge/Microsoft-AZ--900-blue?style=for-the-badge&logo=microsoft-azure)
-![NPCI Certificate](https://img.shields.io/badge/NPCI-Cybersecurity%20Internship-darkgreen?style=for-the-badge&logo=paytm)
-![Simplilearn IIITB](https://img.shields.io/badge/IIIT%20Bangalore-Advanced%20Cybersecurity%20Program-red?style=for-the-badge&logo=graduation-cap)
-
-
-
-![Azure Fundamentals](https://img.shields.io/badge/Certificate-Azure%20Fundamentals-blue?style=for-the-badge&logo=microsoftazure)
-
 [![Azure Fundamentals](https://img.shields.io/badge/Certificate-Azure%20Fundamentals-blue?style=for-the-badge&logo=microsoftazure)](https://drive.google.com/file/d/1rEJFl-OjY2X_eRcEpSCgLk81pHAkKSMA/view?usp=drivesdk)
 
 
+[![CompTIA Network+](https://img.shields.io/badge/Certificate-CompTIA%20Network%2B-red?style=for-the-badge&logo=comptia)](https://drive.google.com/file/d/1HRP_gOQ1hyePgEWUTDaOmJ_EfcM8l9Xf/view?usp=sharing)
 
+[![Cybersecurity Program](https://img.shields.io/badge/Certificate-Advanced%20Cybersecurity%20Program-blue?style=for-the-badge&logo=microsoftdefender)](https://drive.google.com/file/d/1DJ3LXeF2GIbgf5mUyYbGgUDT6PFIENUe/view?usp=drive_link)
 
-![Cybersecurity Program](https://img.shields.io/badge/Certificate-Advanced%20Cybersecurity%20Program-blue?style=for-the-badge&logo=microsoftdefender)
+[![Virtual Internship](https://img.shields.io/badge/Certificate-NPCI%20Virtual%20Internship-darkgreen?style=for-the-badge&logo=nationalgeographic)](https://drive.google.com/file/d/1P1dIGb-7ragC8JskOPkQ_UyU4H6mBvdM/view?usp=sharing)
 
-
-
-
-![CompTIA Network+](https://img.shields.io/badge/Certificate-CompTIA%20Network%2B-red?style=for-the-badge&logo=comptia)
-
-
-
-
-![Virtual Internship](https://img.shields.io/badge/Certificate-NPCI%20Virtual%20Internship-darkgreen?style=for-the-badge&logo=nationalgeographic)
-
-
-![CCSP](https://img.shields.io/badge/Certificate-CCSP%20Certified%20Cloud%20Security%20Professional-blueviolet?style=for-the-badge&logo=cloudflare)
-
-
-[![Azure Fundamentals](https://img.shields.io/badge/Certificate-Azure%20Fundamentals-blue?style=for-the-badge&logo=microsoftazure)](https://example.com/azure-fundamentals)
-
-[![CompTIA Network+](https://img.shields.io/badge/Certificate-CompTIA%20Network%2B-red?style=for-the-badge&logo=comptia)](https://example.com/comptia-network-plus)
-
-[![Cybersecurity Program](https://img.shields.io/badge/Certificate-Advanced%20Cybersecurity%20Program-blue?style=for-the-badge&logo=microsoftdefender)](https://example.com/iiit-cybersecurity)
-
-[![Virtual Internship](https://img.shields.io/badge/Certificate-NPCI%20Virtual%20Internship-darkgreen?style=for-the-badge&logo=nationalgeographic)](https://example.com/npci-internship)
-
-[![CCSP](https://img.shields.io/badge/Certificate-CCSP%20Certified%20Cloud%20Security%20Professional-blueviolet?style=for-the-badge&logo=cloudflare)](https://example.com/ccsp-certificate)
+[![CCSP](https://img.shields.io/badge/Certificate-CCSP%20Certified%20Cloud%20Security%20Professional-blueviolet?style=for-the-badge&logo=cloudflare)](https://drive.google.com/file/d/1P49JA_thSz59glXeovyqwBoCSOaP1Knz/view?usp=sharing)
 
 
 
