@@ -1,16 +1,14 @@
-# 👋 Hi, I'm Kadali Gangadhar!  
-## **🔹 Aspiring Cybersecurity Professional**
+# 👋 Hi, I'm Kadali Gangadhar
+
+
+## 🔹 Aspiring Cybersecurity Professional
 
 ## 📝 Professional Summary
-Cybersecurity professional with hands-on experience in SIEM, intrusion detection, malware analysis, and SOC operations. Skilled in using Splunk, Wireshark, Metasploit, and Nessus to detect and mitigate security threats. Built a home lab to simulate real-world attacks and strengthen incident response skills. Passionate about threat hunting, vulnerability management, and security monitoring.
 
+ **Cybersecurity enthusiast with hands-on experience in SIEM, intrusion detection, malware analysis, and SOC operations. Skilled in tools like Splunk, Wireshark, Metasploit, and Nessus. Built comprehensive home labs to simulate attacks and strengthen incident response skills. Passionate about threat hunting, vulnerability management, and real-time monitoring.**
 
-## 🛠 Skills & Certifications  
-- 🏅 **Certifications:** CCSP, CompTIA+, Azure Fundamentals, Cybersecurity (IIIT-B, NPCI)  
-- 🔹 **Security Tools:** Kali Linux, Wireshark, Nmap, Metasploit, Burp Suite  
-- 🔹 **SIEM & Monitoring:** Splunk, Suricata, Snort
-
-
+## 🛠 Skills & Certifications
+### 🏅 Certifications:
 
 [![Azure Fundamentals](https://img.shields.io/badge/Certificate-Azure%20Fundamentals-blue?style=for-the-badge&logo=microsoftazure)](https://drive.google.com/file/d/1rEJFl-OjY2X_eRcEpSCgLk81pHAkKSMA/view?usp=drivesdk)
 
@@ -24,50 +22,38 @@ Cybersecurity professional with hands-on experience in SIEM, intrusion detection
 [![CCSP](https://img.shields.io/badge/Certificate-CCSP%20Certified%20Cloud%20Security%20Professional-blueviolet?style=for-the-badge&logo=cloudflare)](https://drive.google.com/file/d/1P49JA_thSz59glXeovyqwBoCSOaP1Knz/view?usp=sharing)
 
 
+### 🔧 Security Tools:  **Kali Linux, Wireshark, Nmap, Metasploit, Burp Suite, Nessus**
 
+### 📈 SIEM & IDS/IPS: **Splunk, Suricata, Snort, Elastic Stack**
+#
 
+### 🔥 Hands-on Cybersecurity Projects
 
+**📊 Splunk SIEM Project**
+Built a full Splunk SIEM lab using Ubuntu Server. Configured log forwarding, real-time alerts, and dashboards for monitoring. 🔗 Splunk-SIEM-Project
 
-## 🔥 Hands-on Projects  
-### **1️⃣ Windows Server 2022 & Active Directory Setup**  
-📌 Configured AD DS, DNS, Group Policies in a **virtualized lab**  
-🔗 **[Project Repository](https://drive.google.com/file/d/1cz-4paTKuaKgcsgwfG5qKpUHOBslh70N/view?usp=sharing)**  
+**🛡️ Suricata IDS/IPS Home Lab**
+Configured Suricata for intrusion detection and packet inspection. Simulated attacks using Kali Linux and fine-tuned detection rules.
+🔗 Suricata-IDS-IPS-Home-Lab
 
-### **2️⃣ SIEM Lab: Splunk**  
-📌 Built a **home SIEM lab** for **log analysis, threat detection**  
-🔗 **[SIEM Lab Repository](https://github.com/YOUR-USERNAME/SIEM-Lab)**  
+**🧱 Snort IDS Home Lab**
+Setup Snort for network intrusion detection in a virtual environment. Created and tested custom rules for alerts.
+🔗 Snort-IDS-Home-Lab
 
-### **3️⃣ Malware Analysis with FlareVM**  
-📌 Setup a Windows-based malware analysis sandbox using **Flare VM**  
-🔗 **[Malware Lab Repository](https://github.com/YOUR-USERNAME/Malware-Lab)** 
+**🔍 Vulnerability Assessment & Penetration Testing (VAPT)**
+Conducted VAPT on OWASP BWA & Metasploitable2 using tools like Nmap, Nessus, Metasploit, Nikto, Burp Suite, and ZAP.
+🔗 VAPT Projects
 
-### **4️⃣ Snort IDS Home Lab**
-📌 Configured Snort IDS for intrusion detection & packet analysis in a virtualized lab
-📌 Created custom rules and tested alerts for network security monitoring
-📌 Integrated with Ubuntu, Kali Linux (Attacker)
+**🧪 FlareVM Malware Analysis Lab**
+Set up FlareVM on Windows VM for static and dynamic malware analysis using tools like x64dbg, PE Studio, and Wireshark.
+🔗 FlareVM-Lab-Setup-for-Malware-Analysis
 
-🔗 **[Snort Home Lab Repository](https://docs.google.com/document/d/1NT4_WIZpRUrxmuL4VhAaBEv1XF35NKKuI-xaqhl_-mg/edit?usp=sharing)**
+**🌐 Elastic Cloud SIEM Home Lab**
+Deployed Elastic Stack SIEM on Kali Linux with Filebeat & Winlogbeat. Analyzed Windows logs in Kibana dashboards.
+🔗 Elastic-Cloud-SIEM-Home-Lab-Setup
 
-### **5️⃣ Suricata IDS Home Lab**
-📌 Configured Suricata IDS for real-time intrusion detection & deep packet inspection in a virtualized lab
-📌 Created and optimized custom rules to detect malicious traffic patterns
-📌 Integrated with Ubuntu, Kali Linux (Attacker) for traffic generation and analysis
+**🔗 Connect with Me**
+**📧 Email: kadaligangadhar13@gmail.com**
 
-🔗 **[Suricata Home Lab Repository](https://docs.google.com/document/d/1C2D57fZWQlSoRCgN5QPutE9OPM0RWZ5qRJiJCxaoz94/edit?usp=sharing)**
+**💻 GitHub: github.com/KADALIGANGADHAR**
 
-### **6️⃣VAPT Projects**
-📌 Performed a Vulnerability Assessment & Penetration Testing (VAPT) on Metasploitable2 and OWASP Broken Web Apps
-📌 Used multiple security tools: Nmap, Nessus, Burp Suite, Metasploit, Nikto, OWASP ZAP
-📌 Identified vulnerabilities, exploited them, and documented mitigation strategies
-📌 Conducted scanning techniques: Network Scanning, Web Application Testing, Exploitation, and Reporting
-
-🔗 **[VAPT Project Repository](https://github.com/KADALIGANGADHAR/Vulnerability-Assessment-Penetration-Testing-VAPT-Projects.git)**
-📜 **Detailed Report - README.md**
-🛡 **Mitigation Strategies - Mitigation.md**
-
-
-
-
-
-🔗 **GitHub:** [github.com/YOUR-USERNAME](https://github.com/YOUR-USERNAME)  
-🔗 **Email:** kadaligangadhar13@gmail.com
