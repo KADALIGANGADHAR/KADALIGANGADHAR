@@ -22,8 +22,7 @@ Cybersecurity professional with hands-on experience in SIEM, intrusion detection
 
 ![Azure Fundamentals](https://img.shields.io/badge/Certificate-Azure%20Fundamentals-blue?style=for-the-badge&logo=microsoftazure)
 
-[![Azure Fundamentals](https://img.shields.io/badge/Certificate-Azure%20Fundamentals-blue?style=for-the-badge&logo=microsoftazure)](https://your-verification-link.com)
-
+[![Azure Fundamentals](https://img.shields.io/badge/Certificate-Azure%20Fundamentals-blue?style=for-the-badge&logo=microsoftazure)](https://drive.google.com/file/d/1rEJFl-OjY2X_eRcEpSCgLk81pHAkKSMA/view?usp=drivesdk)
 
 ## 🔥 Hands-on Projects  
 ### **1️⃣ Windows Server 2022 & Active Directory Setup**  
