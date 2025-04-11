@@ -33,31 +33,31 @@
 ## 🔥 Hands-on Cybersecurity Projects
 
 **1️⃣ Windows Server 2022 & Active Directory Setup**  
-📌 Configured AD DS, DNS, Group Policies in a **virtualized lab**  
+📌 Configured AD DS, DNS, Group Policies in a **virtualized lab** <br>
  🔗 **[Project Repository](https://drive.google.com/file/d/1cz-4paTKuaKgcsgwfG5qKpUHOBslh70N/view?usp=sharing)**  
 
 **2️⃣ Splunk SIEM Project**
-📌Built a full Splunk SIEM lab using Ubuntu Server. Configured log forwarding, real-time alerts, and dashboards for monitoring. 
+📌Built a full Splunk SIEM lab using Ubuntu Server. Configured log forwarding, real-time alerts, and dashboards for monitoring. <br>
  🔗 **[Project Repository](https://github.com/KADALIGANGADHAR/Splunk-SIEM-Project.git)**
 
 **3️⃣ Elastic Cloud SIEM Home Lab**
-📌Deployed Elastic Stack SIEM on Kali Linux with Filebeat & Winlogbeat. Analyzed Windows logs in Kibana dashboards.
+📌Deployed Elastic Stack SIEM on Kali Linux with Filebeat & Winlogbeat. Analyzed Windows logs in Kibana dashboards.<br>
  🔗 **[Project Repository](https://github.com/KADALIGANGADHAR/Elastic-Cloud-SIEM-Home-Lab-Setup.git)**
 
 **4️⃣ Suricata IDS/IPS Home Lab**
-📌Configured Suricata for intrusion detection and packet inspection. Simulated attacks using Kali Linux and fine-tuned detection rules.
+📌Configured Suricata for intrusion detection and packet inspection. Simulated attacks using Kali Linux and fine-tuned detection rules.<br>
  🔗 **[Project Repository](https://github.com/KADALIGANGADHAR/Suricata-IDS-IPS-Home-Lab.git)**
 
 **5️⃣ Snort IDS Home Lab**
-📌Setup Snort for network intrusion detection in a virtual environment. Created and tested custom rules for alerts.
+📌Setup Snort for network intrusion detection in a virtual environment. Created and tested custom rules for alerts.<br>
  🔗 **[Project Repository](https://github.com/KADALIGANGADHAR/Snort-IDS-Home-Lab.git)**
 
 **6️⃣ Vulnerability Assessment & Penetration Testing (VAPT)**
-📌Conducted VAPT on OWASP BWA & Metasploitable2 using tools like Nmap, Nessus, Metasploit, Nikto, Burp Suite, and ZAP.
+📌Conducted VAPT on OWASP BWA & Metasploitable2 using tools like Nmap, Nessus, Metasploit, Nikto, Burp Suite, and ZAP.<br>
  🔗 **[Project Repository](https://github.com/KADALIGANGADHAR/Vulnerability-Assessment-Penetration-Testing-VAPT-Projects.git)**
 
 **7️⃣ FlareVM Malware Analysis Lab**
-📌Set up FlareVM on Windows VM for static and dynamic malware analysis using tools like x64dbg, PE Studio, and Wireshark.
+📌Set up FlareVM on Windows VM for static and dynamic malware analysis using tools like x64dbg, PE Studio, and Wireshark.<br>
  🔗 **[Project Repository](https://github.com/KADALIGANGADHAR/FlareVM-Lab-Setup-for-Malware-Analysis.git)**
 
 #
